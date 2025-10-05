@@ -6,5 +6,5 @@ This template provides a starting point for your [Getting to Know Each Other Tea
 Start by using this template to create a GitHub Pages website named after your team (CamelCase). 
 
 The template includes a starter Product Backlog and Sprint Backlog.
-- [Product Backlog](product-backlog.md/)
-- [Sprint 04 Backlog](sprint-04-backlog.md)
+- [Product Backlog](backlogs/product-backlog.md/)
+- [Sprint 04 Backlog](backlogs/sprint-04-backlog.md)

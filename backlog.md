@@ -6,11 +6,9 @@ permalink: /backlog/
 
 # 📋 Product Backlog – *Insurance Risk Calculator*
 
-_All stories include "so that I can..." phrasing._
-
 | **ID** | **User Story / Task** | **Priority** | **Estimate** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|
-| US-001 | At a Scrum team, we want to identify a Sprint 4 Scrum Master and Product Owner (spike) so that I can ensure team leadership is clearly defined for the sprint. | High | 1 | Ready | Unassigned |
+| US-001 | At a Scrum team, we want to identify a Sprint 4 Scrum Master and Product Owner (spike) so that I can ensure team leadership is clearly defined for the sprint. | Very High | 1 | Ready | Unassigned |
 | US-002 | As a Product Owner, I want to define the Minimum Viable Product (MVP) and prioritize stories (spike) so that I can deliver value to users early and consistently. | High | 2 | Not Started | Unassigned |
 | US-003 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment (spike) so that I can help the team work with focus and alignment. | High | 1 | Not Started | Unassigned |
 | US-004 | As a team, we want to create a GitHub organization and repos for client and servers (spike) so that I can collaborate using centralized version control. | High | 2 | Not Started | Unassigned |
@@ -28,4 +26,4 @@ _All stories include "so that I can..." phrasing._
 | US-016 | As a user, I want a pretty application that utilizes Tailwind to style the application so that I can enjoy a modern and visually appealing experience. | Low | 4 | Not Started | Unassigned |
 | US-017 | As a user, I want to identify and process family history of hypertension so that I can understand how my health history affects my risk. | Low | 3 | Not Started | Unassigned |
 | US-018 | As a developer, I want to remove all unnecessary code from the Node.js servers so that I can improve maintainability and performance. | Low | 3 | Not Started | Unassigned |
-| US-019 | As a user, I would like the application to run natively on my iPhone so that I can work on it while I am driving. | Low | 5 | Not Started | Unassigned |
+| US-019 | As a user, I would like the application to run natively on my iPhone so that I can work on it while I am driving. | Very Low | 5 | Not Started | Unassigned |

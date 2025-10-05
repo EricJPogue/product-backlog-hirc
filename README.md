@@ -1,5 +1,5 @@
-# *Insurance Risk Calculator* 
-# plus *Getting to Know Each Other Teams*
+# *Getting to Know Each Other Teams*
+## and *Insurance Risk Calculator* Backlogs 
 
 Overview: This template provides a starting point for your [Getting to Know Each Other Teams](https://www.lewisuniversity.org/activity/getting-to-know-each-other-teams) and
 [Health Insurance Risk Calculator for the Web As A Team](https://www.lewisuniversity.org/activity/health-risk-calculator-team-web). 

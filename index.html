@@ -1,39 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Backlog Navigation</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Team</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-      background-color: #f9f9f9;
+      text-align: center;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
     }
-    h1 {
-      color: #333;
+    header {
+      background-color: #333;
+      color: white;
+      padding: 20px 0;
+    }
+    main {
+      padding: 20px;
+    }
+    .team-photo {
+      width: 80%;
+      max-width: 600px;
+      margin: 20px auto;
+      display: block;
+      border: 3px solid #ccc;
     }
     ul {
-      list-style-type: disc;
-      padding-left: 20px;
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin: 10px 0;
     }
     a {
-      color: #1a73e8;
+      color: #0077cc;
       text-decoration: none;
     }
     a:hover {
       text-decoration: underline;
     }
+    section {
+      margin-top: 40px;
+    }
   </style>
 </head>
 <body>
-  <h1>Project Navigation</h1>
-  <p>Click a link below to view the corresponding backlog:</p>
-  <ul>
-    <li><a href="backlogs/product-backlog">Product Backlog</a></li>
-    <li><a href="backlogs/sprint-04-backlog">Sprint 04 Backlog</a></li>
-  </ul>
+  <header>
+    <h2>*** Your team should replace this entirely with something uniquely your own ***</h2>
+    <h1>Welcome to Our Starter Scrum Team Page</h1>
+    <h2>Generate by ChatGPT (with a little help from Eric)</h2>
+  </header>
+  <main>
+    <h2>Meet the Team</h2>
+    <!-- Replace with your own image and map coordinates -->
+    <img src="team-photo.jpg" usemap="#teammap" alt="Team Photo" class="team-photo">
+
+    <map name="teammap">
+      <area shape="rect" coords="50,50,150,150" href="member1.html" alt="Member 1">
+      <area shape="rect" coords="160,50,260,150" href="member2.html" alt="Member 2">
+      <!-- Add more areas per team member -->
+    </map>
+
+    <ul>
+      <li><a href="member1.html">Eric Pogue (epogue@lewisu.edu)</a></li>
+      <li><a href="member2.html">Member 2</a></li>
+      <!-- Add more team members -->
+    </ul>
+
+    <section id="repository-and-backlogs">
+      <p>Team GitHub Repository: <a href="#">[[team-github-repository-url</a></p>
+    </section>
+  </main>
 </body>
 </html>

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Product Backlog
+permalink: /backlog/
+---
+
 # 📋 Product Backlog – *Insurance Risk Calculator*
 
 _All stories include "so that I can..." phrasing._

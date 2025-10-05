@@ -9,8 +9,5 @@ The template includes a starter Product Backlog and Sprint Backlog.
 - [Product Backlog](product-backlog.md/)
 - [Sprint 04 Backlog](sprint-04-backlog.md)
 
-
-
-
 Credits:
 - ChatGPT was utilized to generate parts of this site. 

@@ -4,5 +4,5 @@ Overview: This template provides a starting point for your [Getting to Know Each
 [Health Insurance Risk Calculator for the Web As A Team](https://www.lewisuniversity.org/activity/health-risk-calculator-team-web). 
 
 The template includes a starter Product Backlog and Sprint Backlog.
-- [Product Backlog](product-backlog/)
+- [Product Backlog](product-backlog.md/)
 - [Sprint 04 Backlog](sprint-04-backlog.md)

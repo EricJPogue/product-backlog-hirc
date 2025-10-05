@@ -11,7 +11,7 @@ permalink: /backlog/
 | RC-001 | At a Scrum Team, we want to identify the Sprint 4 Scrum Master and Product Owner so that I can ensure team leadership is clearly defined for the sprint, | 10 | 0 | Y | Ready | -- |
 | RC-003 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 8 | 2 | Y | -- | -- |
 | RC-002 | As a Product Owner, I want to manage the backlogs and focus on the Minimum Viable Product (MVP) and prioritize stories so that I can deliver value to users by the end of the sprint. | 8 | 2 | Y | -- | -- |
-| RC-004 | As a developer, I want to create a GitHub organization and repos for client and servers so that I can collaborate using centralized version control. | 8 | 2 | Y | -- | -- |
+| RC-004 | As a developer, I want to create a GitHub organization and repos for client and servers so that I can collaborate using centralized version control. | ? | 2 | Y | -- | -- |
 | RC-005 | As a developer, I want to set up GitHub client and server repositories along with connected Azure Static Web App and Node.js servers so that I can deploy and test code collaboratively in the cloud. | 7 | 5 | Y | -- | -- |
 | RC-006 | As a user, I want a clean and welcoming home screen with instructions so that I can quickly understand how to use the application. | 7 | 3 | N | -- | -- |
 | RC-007 | As a user, I want to enter my age, height (ft/in), weight (lbs), blood pressure, and family history so that I can receive a personalized risk calculation. | 7 | 4 | N | -- | -- |
@@ -29,7 +29,8 @@ permalink: /backlog/
 | RC-019 | As a user, I would like the application to run natively on my iPhone so that I can work on it while I am driving. | 1 | -- | N | -- | -- |
 
 Todo:
-1. Change “Summarize inputs” to “As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct.”
-2. Briefly review, fix, re-estimate and re-prioritize stories as needed
-3. Reorganize stories so the highest priority stories are at the top and the lowest priority stories are at the bottom
-4. Remove this “Todo” list as the items are completed
+1. Change RC-009 “Summarize inputs” to “As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct.”
+2. Determine priority of RC-004
+3. Briefly review, fix, re-estimate and re-prioritize stories as needed
+4. Reorganize stories so the highest priority stories are at the top and the lowest priority stories are at the bottom
+5. Remove this “Todo” list as the items are completed

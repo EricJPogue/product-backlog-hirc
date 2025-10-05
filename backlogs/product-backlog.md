@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Product Backlog
-permalink: /product-backlog/
+permalink: /backlogs/product-backlog/
 ---
 
 # 📋 Product Backlog – *Insurance Risk Calculator*

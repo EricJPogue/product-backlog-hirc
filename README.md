@@ -1,7 +1,9 @@
 # *Getting to Know Each Other Teams* and * Health Insurance Risk Calculator* Backlogs 
 
-Overview: This template provides a starting point for your [Getting to Know Each Other Teams](https://www.lewisuniversity.org/activity/getting-to-know-each-other-teams) and
+This template provides a starting point for your [Getting to Know Each Other Teams](https://www.lewisuniversity.org/activity/getting-to-know-each-other-teams) and
 [Health Insurance Risk Calculator for the Web As A Team](https://www.lewisuniversity.org/activity/health-risk-calculator-team-web). 
+
+Start by using this template to create a GitHub Pages website named after your team (in CamelCase). 
 
 The template includes a starter Product Backlog and Sprint Backlog.
 - [Product Backlog](product-backlog.md/)

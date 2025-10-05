@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sprint 4 Backlog
-permalink: /sprint-04-backlog/
+permalink: /backlogs/sprint-04-backlog/
 ---
 
 # 📋 Sprint 04 Backlog – *Insurance Risk Calculator*
